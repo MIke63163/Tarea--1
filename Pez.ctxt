@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Pez
+comment1.params=tipoPez\ tam\ agua\ color
+comment1.target=Pez(java.lang.String,\ double,\ java.lang.String,\ java.lang.String)
+comment10.params=agua
+comment10.target=java.lang.String\ setTipoDeAgua(java.lang.String)
+comment11.params=color
+comment11.target=java.lang.String\ setColor(java.lang.String)
+comment2.params=tipoDeAgua
+comment2.target=boolean\ estaVivo(java.lang.String)
+comment3.params=tam
+comment3.target=double\ crecer(double)
+comment4.params=
+comment4.target=java.lang.String\ getTipo()
+comment5.params=
+comment5.target=double\ getTama\u00F1o()
+comment6.params=
+comment6.target=java.lang.String\ getTipoDeAgua()
+comment7.params=
+comment7.target=java.lang.String\ getColor()
+comment8.params=tipo
+comment8.target=java.lang.String\ setTipo(java.lang.String)
+comment9.params=tam
+comment9.target=double\ setTama\u00F1o(double)
+numComments=12
